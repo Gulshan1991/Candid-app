@@ -2,9 +2,7 @@
 //  LoginVC.m
 //  Candid Connection
 //
-//  Created by Akshay Shah on 15/05/18.
-//  Copyright © 2018 Akshay Shah. All rights reserved.
-//
+
 
 #import "LoginVC.h"
 #import "AFNetworking.h"
