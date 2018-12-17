@@ -2,7 +2,7 @@
 //  LoginVC.m
 //  Candid Connection
 //
-
+//  Copyright © 2018 Gulshan Solanki. All rights reserved.
 
 #import "LoginVC.h"
 #import "AFNetworking.h"
